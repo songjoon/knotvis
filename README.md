@@ -1,7 +1,13 @@
 # knotvis
-Knot visualization
+Visualization of knot.
+
 # Dependency
 ffmpeg(optional)
+
+# Todo
+- Use vispy
+- matrix optimization
+- detect non-regular position
 
 Copyright (c) 2025, Joon Song
 All rights reserved.
